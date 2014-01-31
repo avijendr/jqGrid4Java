@@ -1,7 +1,7 @@
 jqGrid4Java
 ===========
 
-<strong>jqGrid4Java</strong> is a simple Java tag library which can be used for building jqGrid based tables from server side or client side data. The data can be JSON or XML format. This library can vbe easily integrated into Spring mvc, struts2 or pretty much any JEE based frameworks.
+<strong>jqGrid4Java</strong> is a simple Java tag library which can be used for building jqGrid based tables using server side or client side data. The data can be JSON or XML format. This library can be easily integrated into Spring mvc, Struts2 or pretty much any JEE based frameworks.
 
 <h4>Features:</h4>
 <br/>
